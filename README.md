@@ -1,1 +1,0 @@
-A specialized e-commerce website for PC parts. Utilized Spring Boot and Spring JPA to build a scalable backend, and implemented a responsive user interface with React for an optimized shopping experience
